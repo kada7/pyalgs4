@@ -4,7 +4,7 @@ This is a implement of *Algorithms 4th Edition*(Princeton) by Python3.
 - Please download the algs4-data package from the [office site](http://algs4.cs.princeton.edu/code/), then make sure the directory tree like this:
 
 ```
-pyalgs4/
+algorithms/
 |
 --algs4-data/
   |
@@ -35,7 +35,7 @@ Because of an apparent lack of programming skills, these codes still have to be 
 * 请从[官网](http://algs4.cs.princeton.edu/code/)下载algs4-data包，并确保目录树如下：
 
 ```
-pyalgs4/
+algorithms/
 |
 --algs4-data/
   |
